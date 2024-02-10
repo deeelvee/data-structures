@@ -1,0 +1,14 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Implementation of data structures in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "deeelvee.pers@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
